@@ -1,0 +1,7 @@
+For windows tests in package.json
+
+// "config": {
+//   "mongodbMemoryServer": {
+//     "version": "latest"
+//   }
+// },
